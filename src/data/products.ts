@@ -3,14 +3,14 @@ export const products: Product[] = [
     {
         id: 1,
     name: "6 Shade Highlighter",
-    price: 999,
+    price: 239,
     description: "A beautiful 6-shade highlighter palette for a radiant glow.",
     image: "/images/highlighter.png",
     } , 
   {
     id: 2,
     name: "Multani Mitti & Rose Water Set",
-    price: 499,
+    price: 199,
     description:
       "A skincare combination featuring Multani Mitti powder, rose water and a brush.",
     image: "/images/multani-mitti.png",
@@ -19,7 +19,7 @@ export const products: Product[] = [
   {
     id: 3,
     name: "Natural Detox Foot Pads",
-    price: 399,
+    price: 199,
     description:
       "Natural foot pads designed for a relaxing self-care routine.",
     image: "/images/foot-pads.jpg",
@@ -64,14 +64,6 @@ export const products: Product[] = [
     description:
       "Lightweight everyday coverage with a natural-looking finish.",
     image: "/images/bb-cream.png",
-  },
-  {
-    id: 9,
-    name: "Foot Corn Removal Gel",
-    price: 199,
-    description:
-      "Extra-strength gel with a dropper applicator for targeted foot corn care.",
-    image: "/images/foot-corn-removal-gel.png",
   },
 ];
     
