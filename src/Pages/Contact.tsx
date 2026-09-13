@@ -16,7 +16,8 @@ function Contact() {
           <h1 className="mt-3 text-4xl font-bold tracking-tight md:text-5xl">We’d love to hear from you.</h1>
           <p className="mt-5 max-w-md leading-7 text-stone-600">Have a question about an order or a product? Send us a note and our small team will get back to you soon.</p>
           <div className="mt-10 space-y-5 text-sm">
-            <div><p className="font-semibold text-stone-900">Email</p><a className="mt-1 inline-block text-stone-600 hover:text-rose-500" href="mailto:hello@fangruik.com">hello@fangruik.com</a></div>
+            <div><p className="font-semibold text-stone-900">Phone</p><a className="mt-1 inline-block text-stone-600 hover:text-rose-500" href="tel:+917777017072">77770 17072</a></div>
+            <div><p className="font-semibold text-stone-900">Email</p><a className="mt-1 inline-block text-stone-600 hover:text-rose-500" href="mailto:support.eecom@gmail.com">support.eecom@gmail.com</a></div>
             <div><p className="font-semibold text-stone-900">Based in</p><p className="mt-1 text-stone-600">India</p></div>
           </div>
         </section>

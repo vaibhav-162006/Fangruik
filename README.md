@@ -26,4 +26,4 @@ The included `vercel.json` makes direct links such as `/products/1` work in prod
 3. Select the repository; set its base directory to `product-showcase` if applicable.
 4. Deploy. The included `netlify.toml` provides the correct build settings and routing support.
 
-Before going live, replace `hello@fangruik.com` in the Contact and Footer components with an email address you own.
+Contact details are configured in the Contact and Footer components.

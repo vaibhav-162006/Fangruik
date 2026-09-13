@@ -70,7 +70,8 @@ function Footer() {
             </h3>
 
             <div className="mt-4 text-sm leading-6 text-stone-500">
-              <p>Email: hello@fangruik.com</p>
+              <p><a href="tel:+917777017072" className="hover:text-stone-900">Phone: 77770 17072</a></p>
+              <p><a href="mailto:support.eecom@gmail.com" className="hover:text-stone-900">Email: support.eecom@gmail.com</a></p>
               <p>India</p>
             </div>
           </div>
