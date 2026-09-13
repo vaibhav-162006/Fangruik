@@ -65,5 +65,13 @@ export const products: Product[] = [
       "Lightweight everyday coverage with a natural-looking finish.",
     image: "/images/bb-cream.png",
   },
+  {
+    id: 9,
+    name: "Foot Corn Removal Gel",
+    price: 199,
+    description:
+      "Extra-strength gel with a dropper applicator for targeted foot corn care.",
+    image: "/images/foot-corn-removal-gel.png",
+  },
 ];
     
