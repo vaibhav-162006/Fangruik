@@ -31,7 +31,7 @@ function Home() {
 
           <a
             href="/products"
-            className="hidden text-sm font-semibold text-stone-700 underline-offset-4 hover:underline sm:block"
+            className="text-sm font-semibold text-stone-700 underline-offset-4 hover:underline"
           >
             View All
           </a>
@@ -44,6 +44,12 @@ function Home() {
               product={product}
             />
           ))}
+        </div>
+
+        <div className="mt-9 text-center">
+          <a href="/products" className="inline-block rounded-full border border-stone-300 px-6 py-3 text-sm font-semibold text-stone-800 transition hover:border-rose-500 hover:bg-rose-50">
+            View all products
+          </a>
         </div>
 
         <section className="mt-20 grid gap-5 rounded-3xl bg-stone-900 px-7 py-10 text-white sm:grid-cols-3 sm:px-10">
